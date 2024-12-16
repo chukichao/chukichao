@@ -14,9 +14,9 @@
 
 Учебные проекты:
 
-**[Игры разума](https://github.com/chukichao/frontend-project-44)**
+**[Игры разума](https://github.com/chukichao/brain-games)**
 
-**[Вычислитель отличий](https://github.com/chukichao/frontend-project-46)**
+**[Вычислитель отличий](https://github.com/chukichao/gendiff)**
 
 --------------------
 
