@@ -20,4 +20,4 @@
 
 --------------------
 
-* ✉️  Вы можете написать мне на почту [maxichukichev@gmail.com](mailto:maxichukichev@gmail.com), либо связаться в телеграм @chukichao
+✉️  Вы можете написать мне на почту [maxichukichev@gmail.com](mailto:maxichukichev@gmail.com), либо связаться в телеграм @chukichao
