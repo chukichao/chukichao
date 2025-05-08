@@ -21,3 +21,12 @@
 --------------------
 
 ✉️  Связаться со мной можно по почте [maxichukichev@gmail.com](mailto:maxichukichev@gmail.com), либо через телеграм @chukichao.
+
+Дополнительная информация (сертификат, статистика обучения).
+
+Сертификат об обучении.
+![Maxim Chukichev Frontend Ru](https://github.com/user-attachments/assets/5b618a4d-fa7e-459a-a613-58aee0c8e251)
+
+Статистика обучения (профиль на платформе Хекслет на 08.05.2025).
+![Статистика](https://github.com/user-attachments/assets/69aef911-03b2-4375-b106-fc5299bed153)
+https://ru.hexlet.io/u/chukichao
